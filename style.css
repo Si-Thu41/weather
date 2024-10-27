@@ -98,10 +98,12 @@ p{
     .cityInput{
         max-width: 30svw;
         overflow: hidden;
+        font-size: 1rem;
     }
     button{
         width: 100px;
         font-size: 1rem;
+        text-align:center;
     }
    
 }
